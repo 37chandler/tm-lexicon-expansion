@@ -17,6 +17,9 @@ Here are the steps I'd like you to follow:
 4. Use the techniques from class or lecture to find words that are unusually highly represented in the group that includes the word. 
 5. Look at that list of words and expand your word set to include some new words. 
 6. Repeat 3-5 a few times. Stop at a place that seems sensible. 
+7. Once you've finalized your word list, divide the corpus into two groups: the half that has those words and the half that doesn't. Then do some comparison between the two groups, either using the Group Comparison assignment or other mechanism. 
 
+
+Again, no starter code for you here. I'd like you to produce a notebook that, when the cells have run, produces something that looks closer to a "written report" than what we've been doing, which I would describe more as code. Take advantage of the markdown cells to write prose about what you've done and what conclusions you've drawn. It's fine to have code and code output, but think of this like a blog post for a technical audience. 
 
 
